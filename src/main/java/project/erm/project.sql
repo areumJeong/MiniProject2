@@ -29,7 +29,7 @@ CREATE TABLE BoardAuction
 );
 
 
-CREATE TABLE boardBuy
+CREATE TABLE BoardBuy
 (
 	bid int NOT NULL AUTO_INCREMENT,
 	uid varchar(12) NOT NULL,
@@ -45,7 +45,7 @@ CREATE TABLE boardBuy
 );
 
 
-CREATE TABLE boardadvice
+CREATE TABLE Community
 (
 	bid int NOT NULL AUTO_INCREMENT,
 	uid varchar(12) NOT NULL,

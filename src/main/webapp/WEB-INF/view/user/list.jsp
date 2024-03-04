@@ -19,9 +19,8 @@
 <body>
 	<%@ include file="../common/_top.jspf" %>
 	
-	<div class="container" style="margin-top:px">
+	<div class="container" style="margin-top: 50px">
 		<div class="row">
-			<%@ include file="../common/_aside.jspf" %>
 			
 			<div class="col-9">
 				<h3><strong class="me-5">사용자 목록</strong>
